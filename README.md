@@ -1,3 +1,0 @@
-# HTML & CSS Full Course
-#### SSD02:CSS Basics
-Learning CSS basics
